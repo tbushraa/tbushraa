@@ -3,13 +3,11 @@ Hi there...
 
 CSE Student 📚 | Math Enthusiast ➗ | Future Educator 👩‍🏫 | Aspiring Leader 💡
 
+---
 
-
-✨ About Me:
+### ✨ About Me:
 
 🎓 Studying Computer Science & Engineering
-
-💻 Comfortable in C programming – improving each day!
 
 ➗ Passionate about math – I love solving logical problems
 
@@ -21,7 +19,9 @@ CSE Student 📚 | Math Enthusiast ➗ | Future Educator 👩‍🏫 | Aspiring 
 
 📖 I read novels to feel, 🎵 music to heal, and 🎬 movies to escape
 
-🛠️ Skills & Interests:
+---
+
+### 🛠️ Skills & Interests:
 
 ✔️ C Programming
 ✔️ Mathematics & Logic Building
@@ -30,12 +30,28 @@ CSE Student 📚 | Math Enthusiast ➗ | Future Educator 👩‍🏫 | Aspiring 
 ✔️ Psychology in Technology
 ✔️ Creative Thinking + Fast Reading
 
-🎯 Goals:
+---
+
+### 🎯 Goals:
 
 📈Keep growing in tech and teaching
 
 ✈️Pursue higher education abroad (especially America 🇺🇸)
 
 🌟Inspire others as both a developer and an educator
+
+---
+
+### 📱 Connect With Me:
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tasniimbushraa)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tasnimythic_)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tabushra7@gmail.com)
+
+
+
+
 
 
