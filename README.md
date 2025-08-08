@@ -1,16 +1,41 @@
-## Hi there 👋
+Hi there...
+🌸 Tasnim Arifin Bushra
 
-<!--
-**tbushraa/tbushraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CSE Student 📚 | Math Enthusiast ➗ | Future Educator 👩‍🏫 | Aspiring Leader 💡
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+✨ About Me:
+
+🎓 Studying Computer Science & Engineering
+
+💻 Comfortable in C programming – improving each day!
+
+➗ Passionate about math – I love solving logical problems
+
+🧠 Curious about psychology and how it connects to tech (HCI fascinates me!)
+
+📚 Natural teacher – I enjoy explaining concepts to others
+
+💡 Leadership comes naturally – I enjoy guiding and organizing
+
+📖 I read novels to feel, 🎵 music to heal, and 🎬 movies to escape
+
+🛠️ Skills & Interests:
+
+✔️ C Programming
+✔️ Mathematics & Logic Building
+✔️ Communication & Public Speaking
+✔️ Leadership & Team Coordination
+✔️ Psychology in Technology
+✔️ Creative Thinking + Fast Reading
+
+🎯 Goals:
+
+📈Keep growing in tech and teaching
+
+✈️Pursue higher education abroad (especially America 🇺🇸)
+
+🌟Inspire others as both a developer and an educator
+
+
